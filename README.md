@@ -6,11 +6,14 @@ Goal: Learn how to apply data science and data engineering techniques using para
 Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to 10 points per session based on their participation and labs completion. Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
 
 How to communicate: use [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
+
 ** If you aren't a member; send an email to mehrdad@gmail.com with _Slack Invitation Request_ as the subject
 
 ## Schedule:
 
-The sessions will be delivered out by GoToMeeting, link will be send to participants the day before the session. Every Thursday from 7:00pm to 8:30pm, starting on July 14, 2016 until the day of the hackathon.
+The sessions will be delivered out by Google Hangout. Click on the session title to see the link to the youtube and hangout page for that session. All sessions will be recorded and published after the live session.
+
+Every Thursday from 7:00pm to 8:30pm, starting on July 14, 2016 until the day of the hackathon.
 
 ### Sessions:
 
