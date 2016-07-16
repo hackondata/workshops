@@ -7,7 +7,10 @@ Participants are expected to review the material before the session and complete
 
 How to communicate: use [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
-** If you aren't a member; send an email to mehrdad@gmail.com with _Slack Invitation Request_ as the subject
+** If you aren't a member; send an email to mehrdad@tranquant.com with _Slack Invitation Request_ as the subject
+
+## View your profile and your points:
+http://hackondata.com:9999/api/hackathon/profile?token=your-private_id  // find `your-private_id` in your Registration Confirmation E-mail
 
 ## Schedule:
 
