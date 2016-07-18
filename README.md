@@ -18,6 +18,9 @@ The sessions will be delivered out by Google Hangout. Click on the session title
 
 Every Thursday from 7:00pm to 8:30pm, starting on July 14, 2016 until the day of the hackathon.
 
+### To Setup Your Environment:
+Please follow the [instruction](https://goo.gl/sGzTZW)
+
 ### Sessions:
 
 #### [Jul 14 - Virtual session - Intro](sessions/exercise_1.md)
