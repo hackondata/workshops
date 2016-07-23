@@ -2,8 +2,9 @@
 ===========
 
 ## Below is the material for session 3:
-[Lectures - Week 3] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3719583162088699/2202577924924539/latest.html)
-[Lab for Session 3](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3719583162088724/2202577924924539/latest.html)
+- [Lectures - Week 3] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3719583162088699/2202577924924539/latest.html)
+
+- [Lab for Session 3](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3719583162088724/2202577924924539/latest.html)
 
 ## Exercise #3 - Details:
 [Log Analysis](it will be announced soon, in the mean time please complete the lab and lectures)
