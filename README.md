@@ -38,7 +38,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - Reference to regular expressions https://regex101.com/#python
 - Apply word count to a file
 
-#### Jul 28 - Virtual session  - Data Exploration
+#### [Jul 28 - Virtual session  - Data Exploration](sessions/exercise_3.md)
 - Server log analysis statistics
 - Finding problematic endpoints, unique hosts
 - Visualizing data analysis results
