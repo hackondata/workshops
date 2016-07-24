@@ -7,8 +7,7 @@
 - [Lab for Session 3](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3719583162088724/2202577924924539/latest.html)
 
 ## Exercise #3 - Details:
-- [Log Analysis] ** it will be announced soon, in the mean time please complete the lab and lectures
-
+- [Log Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/24271091759492/2202577924924539/latest.html) 
 
 Please complete the Lab and exercise before the session on **Thursday, July 28st**. 
 We will be answering questions and providing assistance then.
