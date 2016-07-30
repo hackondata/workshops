@@ -44,7 +44,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - Visualizing data analysis results
 - Data exploration
 
-#### Aug  4 - In-person part I - Text Analysis
+#### [Aug  4 - In-person part I - Text Analysis](sessions/exercise_4.md)
 - Text similarity of Entity Resolution
 - Weighted bag-of-words
 - Cosine similarity
