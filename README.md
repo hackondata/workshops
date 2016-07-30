@@ -23,6 +23,8 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 
 ### Sessions:
 
+[All sessions are recorded and available for you to watch!](https://plus.google.com/u/1/collection/UUr_aB)
+
 #### [Jul 14 - Virtual session - Intro](sessions/exercise_1.md)
 - Notebook usage
 - Intro to spark and pySpark API
