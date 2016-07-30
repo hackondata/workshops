@@ -16,7 +16,7 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 ## To submit your solutions go to:
 [Solution Submission Form](http://goo.gl/forms/7UIS2jwTD9hcKv7n2)
 
-## Join the Virtual Session 3
+## Join the Virtual Session 4
 [Link to Google Hangout On Air session - You will be able to comment and chat](https://plus.google.com/events/c0r1ssnug3njkpum7fv7hs8ru90)
 
 [YouTube Page - You won't be able to comment or ask questions live](http://www.youtube.com/watch?v=wcq9cdkm1dQ)
