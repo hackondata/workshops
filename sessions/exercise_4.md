@@ -28,3 +28,14 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 [Python:  Parsing using regex](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1779476228152266/4396722038858513/5673666086694627/latest.html)
 
 [Scala: Sample solution](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1045646855528506/1672108909930178/1387894455626278/latest.html)
+
+## Week 3 Lab solution example
+[Lab solution](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1898152693555917/2202577924924539/latest.html)
+
+## Interesting links from the session:
+
+- [matplotlib gallery](http://matplotlib.org/gallery.html)
+- [user agent parsers](https://github.com/ua-parser/uap-core/blob/master/regexes.yaml)
+- [browser detection](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
+- [httpagentparser python](https://pypi.python.org/pypi/httpagentparser)
+- []()
