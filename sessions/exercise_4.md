@@ -7,7 +7,7 @@
 - [Lab for Session 4](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572323954/2202577924924539/latest.html)
 
 ## Exercise #4 - Details:
-- [TBD]() 
+- [Exercise - Session 4](For this week the lab is the exercise. Include the published URL for lab 4 when submitting) 
 
 Please complete the Lab and exercise before the session on **Thursday, August 7th**. 
 We will be answering questions and providing assistance then.
