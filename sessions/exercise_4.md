@@ -22,7 +22,9 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 [YouTube Page - You won't be able to comment or ask questions live](http://www.youtube.com/watch?v=wcq9cdkm1dQ)
 
 ## Solution for previous week exercise:
-[Solution Notebook - Exercise 3]
+
 [Parsing using external libraries](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5152969875391885/2831016518129705/2624471849802522/latest.html)
+
 [Parsing using regex](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1779476228152266/4396722038858513/5673666086694627/latest.html)
+
 [Solving it using scala](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1045646855528506/1672108909930178/1387894455626278/latest.html)
