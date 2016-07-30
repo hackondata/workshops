@@ -32,6 +32,9 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 ## Week 3 Lab solution example
 [Lab solution](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1898152693555917/2202577924924539/latest.html)
 
-## Interesting links from the session:
+## Interesting links from the previous virtual session:
 
-Links from the session will be collected here
+- [matplotlib gallery](http://matplotlib.org/gallery.html)
+- [user agent parsers](https://github.com/ua-parser/uap-core/blob/master/regexes.yaml)
+- [browser detection](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
+- [httpagentparser python](https://pypi.python.org/pypi/httpagentparser)
