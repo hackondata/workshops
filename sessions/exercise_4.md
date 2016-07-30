@@ -1,12 +1,12 @@
 # Exercise 4:
 ===========
 
-## Below is the material for session 3:
-- [Lectures - Week 3] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572323937/2202577924924539/latest.html)
+## Below is the material for session 4:
+- [Lectures - Week 4] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572323937/2202577924924539/latest.html)
 
-- [Lab for Session 3](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572323954/2202577924924539/latest.html)
+- [Lab for Session 4](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572323954/2202577924924539/latest.html)
 
-## Exercise #3 - Details:
+## Exercise #4 - Details:
 - [TBD]() 
 
 Please complete the Lab and exercise before the session on **Thursday, August 7th**. 
