@@ -34,8 +34,4 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 
 ## Interesting links from the session:
 
-- [matplotlib gallery](http://matplotlib.org/gallery.html)
-- [user agent parsers](https://github.com/ua-parser/uap-core/blob/master/regexes.yaml)
-- [browser detection](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
-- [httpagentparser python](https://pypi.python.org/pypi/httpagentparser)
-- []()
+Links from the session will be collected here
