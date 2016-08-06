@@ -28,3 +28,6 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 [breeze](https://github.com/scalanlp/breeze)
 [linear-algebra-cheat-sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet)
 
+## Other links:
+[numpy reference](http://docs.scipy.org/doc/numpy/reference/)
+
