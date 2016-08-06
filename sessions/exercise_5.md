@@ -7,7 +7,7 @@
 - [Lab for Session 5](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2841773923122741/2202577924924539/latest.html)
 
 ## Exercise #5 - Details:
-- [exercise 5](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2841773923122807/2202577924924539/latest.html)
+- [Predicting Movie Ratings](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2841773923122807/2202577924924539/latest.html)
 
 Please complete the Lab and exercise before the session on **Thursday, Aug 11th**. 
 We will be answering questions and providing assistance then.
