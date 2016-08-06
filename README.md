@@ -53,7 +53,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - Scalable Entity Resolution
 - Analysis
 
-#### Aug 11 - Virtual session: Review
+#### [Aug 11 - Virtual session: Review](sessions/exercise_5.md)
 - Math review
 - Numpy and spark
 - Lambda functions
