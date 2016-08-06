@@ -23,3 +23,8 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 
 ## Solution for previous week lab:
 [Solution Notebook - Lab 4](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572324048/2202577924924539/latest.html)
+
+## For those interested in numpy similar in scala:
+[breeze](https://github.com/scalanlp/breeze)
+[linear-algebra-cheat-sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet)
+
