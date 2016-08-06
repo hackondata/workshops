@@ -2,12 +2,12 @@
 ===========
 
 ## Below is the material for session 5:
-- [Lectures - Week 5] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3719583162088699/2202577924924539/latest.html)
+- [Lectures - Week 5] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2841773923122730/2202577924924539/latest.html)
 
-- [Lab for Session 5](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3719583162088724/2202577924924539/latest.html)
+- [Lab for Session 5](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2841773923122741/2202577924924539/latest.html)
 
 ## Exercise #5 - Details:
-- [Log Analysis](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/24271091759492/2202577924924539/latest.html) 
+- For this week the exercise is the lab. Please submit the solutions to the lab above.
 
 Please complete the Lab and exercise before the session on **Thursday, Aug 11th**. 
 We will be answering questions and providing assistance then.
