@@ -8,7 +8,7 @@ Participants are expected to review the material before the session and complete
 #### late submissions
 
 | Submission time| Points Substracted |
--------
+| ------------- |:-------------:|
 | 1 week > submission > 2 weeks  | 1 |
 | 2 week > submission > 3 weeks | 2 |
 | 3 week > submission > 4 weeks | 3 |
