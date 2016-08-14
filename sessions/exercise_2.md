@@ -12,7 +12,7 @@ We will be answering questions and providing assistance then.
 In the meantime feel free to ask on the [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
 ## To submit your solutions go to:
-[Solution Submission Form](http://goo.gl/forms/7UIS2jwTD9hcKv7n2)
+[Solution Submission Form](https://goo.gl/forms/sJFjo6sAvS2MzoqE2)
 
 ## Join the Virtual Session 2
 [Link to Google Hangout On Air session - You will be able to comment and chat](https://plus.google.com/events/c7dkrb80429k167vo8ttegbjh3o)
