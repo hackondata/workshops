@@ -66,7 +66,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - Numpy and spark
 - Lambda functions
 
-#### Aug 18 - Virtual session  - Read, parse, and visualize dataset
+#### [Aug 18 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_6.md)
 - Baseline model
 - Train linear regression
 - Hyperparameter tuning
