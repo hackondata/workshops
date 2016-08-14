@@ -5,6 +5,9 @@ Goal: Learn how to apply data science and data engineering techniques using para
 
 Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to 10 points per session based on their participation and labs completion. Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
 
+## Solution Submission
+[Solution Submission Form](https://goo.gl/forms/sJFjo6sAvS2MzoqE2)
+
 #### late submissions
 
 | Submission time| Points Substracted |
