@@ -6,8 +6,6 @@
 
 - [Lab for Session 6](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3155681567642814/2202577924924539/latest.html)
 
-- [Dataset for Exercise 6](http://tranquant.com/search?search=HackOn(Data)%20Exercise%2006)
-
 ## Exercise #6 - Details:
 - [Linear Regression](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3155681567642906/2202577924924539/latest.html)
 
