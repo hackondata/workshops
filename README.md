@@ -12,9 +12,11 @@ Participants are expected to review the material before the session and complete
 
 | Submission time| Points Substracted |
 | ------------- |:-------------:|
-| 1 week > submission > 2 weeks  | 1 |
+| 1 week > submission > 2 weeks | 1 |
 | 2 week > submission > 3 weeks | 2 |
 | 3 week > submission > 4 weeks | 3 |
+| 4 week > submission > 5 weeks | 4 |
+| 5 week > submission > 9 weeks | 5 |
 
 How to communicate: use [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
