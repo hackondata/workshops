@@ -17,9 +17,9 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 [Solution Submission Form](https://goo.gl/forms/sJFjo6sAvS2MzoqE2)
 
 ## Join the Virtual Session 7
-[Link to Google Hangout On Air session - You will be able to comment and chat]()
+[Link to Google Hangout On Air session - You will be able to comment and chat](https://plus.google.com/events/c6q4klgaeuti3j5j74m69lb2ch8)
 
-[YouTube Page - You won't be able to comment or ask questions live]()
+[YouTube Page - You won't be able to comment or ask questions live](http://www.youtube.com/watch?v=kt2awjG0zg4)
 
 ## Solution for previous week lab:
 [Solution Notebook - Lab 6](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3228118447252433/2202577924924539/latest.html)
