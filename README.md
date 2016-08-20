@@ -77,7 +77,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - Hyperparameter tuning
 - Features interaction
 
-#### Aug 25 - Virtual session - Feature Hashing
+#### [Aug 25 - Virtual session - Feature Hashing](sessions/exercise_7.md)
 - One-hot-encoding
 - OHE Dictionary
 - Prediction and log loss evaluation
