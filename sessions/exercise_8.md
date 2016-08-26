@@ -24,7 +24,8 @@ In the meantime feel free to ask on the [#workshops channel of TAS Slack](https:
 - [Solution Notebook - Lab 8](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3228118447252433/2202577924924539/latest.html)
 
 ## Exercise Solution
-- Scala : [Ex. 8](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1045646855528506/3668073173500888/1387894455626278/latest.html)
-- Python : [Ex. 8](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1779476228152266/2873962545215332/5673666086694627/latest.html)
+- Scala : [Ex. 7](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1045646855528506/3668073173500888/1387894455626278/latest.html)
+- Python : [Ex. 7](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1779476228152266/2873962545215332/5673666086694627/latest.html)
+- R : [Ex. 7](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8122459673715921/22713414508807/2531719484635850/latest.html)
 
 
