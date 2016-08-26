@@ -9,7 +9,7 @@
 ## Exercise #8 - Details:
 - Submit Lab 8 Solution as exercise for this week
 
-Please complete the Lab and exercise before the session on **Thursday, Aug 25th**. 
+Please complete the Lab and exercise before the session on **Thursday, Sep 1st**. 
 We will be answering questions and providing assistance then.
 In the meantime feel free to ask on the [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
