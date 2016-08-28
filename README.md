@@ -83,7 +83,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - Prediction and log loss evaluation
 - Feature reduction
 
-#### Sep  1 - In-person part II - Principal Component Analysis 
+#### [Sep  1 - In-person part II - Principal Component Analysis](sessions/exercise_8.md)
 - PCA on a sample dataset
 - PCA calculation and evaluation
 - Data preprocessing for PCA
