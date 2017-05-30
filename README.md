@@ -38,7 +38,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 
 [All sessions are recorded and available for you to watch!](https://plus.google.com/u/1/collection/UUr_aB)
 
-#### [Jul 14 - Virtual session - Intro](sessions/exercise_1.md)
+#### [Jul 4 - Virtual session - Intro](sessions/exercise_1.md)
 - Notebook usage
 - Intro to spark and pySpark API
 - Using RDDs
@@ -46,44 +46,44 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - RDD actions, transformation, caching
 - Debugging and lazy evaluation
 
-#### [Jul 21 - Virtual session - RDDs](sessions/exercise_2.md)
+#### [Jul 11 - Virtual session - RDDs](sessions/exercise_2.md)
 - Create a RDD and pair RDD
 - Counting words
 - Finding unique words and mean value
 - Reference to regular expressions https://regex101.com/#python
 - Apply word count to a file
 
-#### [Jul 28 - Virtual session  - Data Exploration](sessions/exercise_3.md)
+#### [Jul 18 - Virtual session  - Data Exploration](sessions/exercise_3.md)
 - Server log analysis statistics
 - Finding problematic endpoints, unique hosts
 - Visualizing data analysis results
 - Data exploration
 
-#### [Aug  4 - In-person part I - Text Analysis](sessions/exercise_4.md)
+#### [Jul  25 - In-person - Text Analysis](sessions/exercise_4.md)
 - Text similarity of Entity Resolution
 - Weighted bag-of-words
 - Cosine similarity
 - Scalable Entity Resolution
 - Analysis
 
-#### [Aug 11 - Virtual session: Review](sessions/exercise_5.md)
+#### [Aug 1 - Virtual Session: Review](sessions/exercise_5.md)
 - Math review
 - Numpy and spark
 - Lambda functions
 
-#### [Aug 18 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_6.md)
+#### [Aug 8 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_6.md)
 - Baseline model
 - Train linear regression
 - Hyperparameter tuning
 - Features interaction
 
-#### [Aug 25 - Virtual session - Feature Hashing](sessions/exercise_7.md)
+#### [Aug 15 - Virtual session - Feature Hashing](sessions/exercise_7.md)
 - One-hot-encoding
 - OHE Dictionary
 - Prediction and log loss evaluation
 - Feature reduction
 
-#### [Sep  1 - In-person part II - Principal Component Analysis](sessions/exercise_8.md)
+#### [Aug  22 - In-person - Principal Component Analysis](sessions/exercise_8.md)
 - PCA on a sample dataset
 - PCA calculation and evaluation
 - Data preprocessing for PCA
