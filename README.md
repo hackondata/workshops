@@ -1,6 +1,7 @@
 # workshops
 
 Workshops are based on the databricks EdX lectures on Apache Spark
+
 Goal: Learn how to apply data science and data engineering techniques using parallel programming in Apache Spark. The workshops are heavily based on the databricks EdX Series.
 
 Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to 10 points per session based on their participation and labs completion. Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
@@ -18,7 +19,7 @@ Participants are expected to review the material before the session and complete
 | 4 week > submission > 5 weeks | 4 |
 | 5 week > submission > 9 weeks | 5 |
 
-How to communicate: use [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
+** How to communicate?: ** use [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
 ** If you aren't a member; send an email to mehrdad@tranquant.com with _Slack Invitation Request_ as the subject
 
@@ -36,7 +37,7 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 
 ### Sessions:
 
-[All sessions are recorded and available for you to watch!](https://plus.google.com/u/1/collection/UUr_aB)
+[Join the live session here] (https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)
 
 #### [Jul 4 - Virtual session - Intro](sessions/exercise_1.md)
 - Notebook usage
