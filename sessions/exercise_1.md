@@ -14,8 +14,9 @@ We will be answering questions and providing assistance then.
 
 In the meantime feel free to ask on the [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
-## To submit your solutions go to:
+## Submit solutions:
 [Solution Submission Form](https://goo.gl/forms/nDHHlg5nUf4eJiCE3)
 
 ## Join the Virtual Session 1
-[zoom.us](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)  Use the TAS Slack for messages.
+- [zoom.us](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA) 
+- Use the TAS Slack for messages.
