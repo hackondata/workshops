@@ -10,7 +10,7 @@ Participants are expected to review the material before the session and complete
 
 The deadline for submission is the end of day the Monday before the session.
 
-[Solution Submission Form](https://goo.gl/forms/sJFjo6sAvS2MzoqE2)
+[Solution Submission Form](https://goo.gl/forms/nDHHlg5nUf4eJiCE3)
 
 #### late submissions
 
@@ -50,44 +50,44 @@ Please follow the [instruction](https://goo.gl/sGzTZW)
 - RDD actions, transformation, caching
 - Debugging and lazy evaluation
 
-#### [Jul 11 - Virtual session - RDDs](sessions/exercise_2.md)
+#### [Jul 11 - Virtual session - RDDs](sessions/exercise_1.md)
 - Create a RDD and pair RDD
 - Counting words
 - Finding unique words and mean value
 - Reference to regular expressions https://regex101.com/#python
 - Apply word count to a file
 
-#### [Jul 18 - Virtual session  - Data Exploration](sessions/exercise_3.md)
+#### [Jul 18 - Virtual session  - Data Exploration](sessions/exercise_1.md)
 - Server log analysis statistics
 - Finding problematic endpoints, unique hosts
 - Visualizing data analysis results
 - Data exploration
 
-#### [Jul  25 - In-person - Text Analysis](sessions/exercise_4.md)
+#### [Jul  25 - In-person - Text Analysis](sessions/exercise_1.md)
 - Text similarity of Entity Resolution
 - Weighted bag-of-words
 - Cosine similarity
 - Scalable Entity Resolution
 - Analysis
 
-#### [Aug 1 - Virtual Session: Review](sessions/exercise_5.md)
+#### [Aug 1 - Virtual Session: Review](sessions/exercise_1.md)
 - Math review
 - Numpy and spark
 - Lambda functions
 
-#### [Aug 8 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_6.md)
+#### [Aug 8 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_1.md)
 - Baseline model
 - Train linear regression
 - Hyperparameter tuning
 - Features interaction
 
-#### [Aug 15 - Virtual session - Feature Hashing](sessions/exercise_7.md)
+#### [Aug 15 - Virtual session - Feature Hashing](sessions/exercise_1.md)
 - One-hot-encoding
 - OHE Dictionary
 - Prediction and log loss evaluation
 - Feature reduction
 
-#### [Aug  22 - In-person - Principal Component Analysis](sessions/exercise_8.md)
+#### [Aug  22 - In-person - Principal Component Analysis](sessions/exercise_1.md)
 - PCA on a sample dataset
 - PCA calculation and evaluation
 - Data preprocessing for PCA
