@@ -26,9 +26,6 @@ The deadline for submission is the end of day the Monday before the session.
 
 ** If you aren't a member; send an email to mehrdad@tranquant.com with _Slack Invitation Request_ as the subject
 
-## View your profile and your points:
-http://hackondata.com:9999/api/hackathon/profile?token=your-private_id  // find `your-private_id` in your Registration Confirmation E-mail
-
 ## Schedule:
 
 The sessions will be delivered out by zoom.us [link]((https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)). Click on the session title to see the link for that session. All sessions will be recorded and published after the live session.
