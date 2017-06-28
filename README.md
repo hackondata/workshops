@@ -31,12 +31,10 @@ http://hackondata.com:9999/api/hackathon/profile?token=your-private_id  // find 
 
 ## Schedule:
 
-The sessions will be delivered out by Google Hangout. Click on the session title to see the link to the youtube and hangout page for that session. All sessions will be recorded and published after the live session.
+The sessions will be delivered out by zoom.us [link]((https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)). Click on the session title to see the link for that session. All sessions will be recorded and published after the live session.
 
-Every Thursday from 7:00pm to 8:30pm, starting on July 14, 2016 until the day of the hackathon.
+Every Tuesday from 7:00pm to 8:30pm, starting on July 4, 2016 until the day of the hackathon.
 
-### To Setup Your Environment:
-Please follow the [instruction](https://goo.gl/sGzTZW)
 
 ### Sessions:
 
