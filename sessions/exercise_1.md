@@ -8,7 +8,7 @@
 [Lab for Session 1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4425269662238039/2202577924924539/latest.html)
 
 
-Please complete the Lab and exercise before the session on **Thursday, July 11th**. 
+Please complete the Lab and exercise before the session on **Thursday, July 4th**. 
 The session will focus only on the Lab portion of the material.
 We will be answering questions and providing assistance then.
 
