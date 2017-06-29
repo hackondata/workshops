@@ -4,7 +4,7 @@ Workshops are based on the databricks EdX lectures on Apache Spark
 
 Goal: Learn how to apply data science and data engineering techniques using parallel programming in Apache Spark. The workshops are heavily based on the databricks EdX Series.
 
-Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to points per session based on their participation and labs completion (more below). Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
+Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to points each week based on their participation, labs completion, and other tasks (more below). Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
 
 ## Points system:
 
