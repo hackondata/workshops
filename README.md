@@ -16,9 +16,6 @@ Participants are expected to review the material before the session and complete
 | Attend a virtual workshop | 5 |
 
 
-- Up to 10 points for each week homework
-- 5 
-
 ## Solution Submission
 
 The deadline for submission is the end of day the Monday before the session.
