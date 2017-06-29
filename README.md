@@ -10,8 +10,8 @@ Participants are expected to review the material before the session and complete
 
 |Task | Max Points| Notes |
 | :------: | :-----: | :------: |
-| Weekly Exercises | 10 | Submit databricks public notebook | 
-| Grade other participant's submission |  10  | Required to grade and comment on 2 or 3 |
+| Weekly Exercises | 10 | Submit databricks public notebook with solutions | 
+| Grade other participant's submission |  10  | Required to grade and comment on 2 or 3 submissions |
 | Attend and in-person workshop | 10 | Participate |
 | Attend a virtual workshop | 5 | Participate | 
 
