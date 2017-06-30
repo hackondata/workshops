@@ -45,7 +45,8 @@ Every Tuesday from 7:00pm to 8:30pm, starting on July 4, 2017 until the day of t
 
 ### Sessions:
 
-[Join the live session here] (https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)
+### Remote sessions: Use zoom.us
+[Join the live session here](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)
 
 #### [Jul 4 - Virtual session - Intro](sessions/exercise_1.md)
 - Notebook usage
