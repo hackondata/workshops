@@ -7,14 +7,7 @@ Goal: Learn how to apply data science and data engineering techniques using para
 Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to points each week based on their participation, labs completion, and other tasks (more below). Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
 
 ## Points system:
-
-|Task | Max Points| Notes |
-| :------: | :-----: | :------: |
-| Weekly Exercises | 10 | Submit databricks public notebook with solutions | 
-| Grade other participant's submission |  10  | Required to grade and comment on 2 or 3 submissions |
-| Attend and in-person workshop | 10 | Participate |
-| Attend a virtual workshop | 5 | Participate | 
-
+Please view "Competition" tab on http://hackondata.com/2017/index.html#faq
 
 ## Solution Submission
 
@@ -32,7 +25,9 @@ The deadline for submission is the end of day the Monday before the session.
 | 4 week > submission > 5 weeks | 4 |
 | 5 week > submission > 9 weeks | 5 |
 
-** How to communicate?: ** use [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
+** How to communicate?
+
+Please view "Communication" tab on Please view "Competition" tab on http://hackondata.com/2017/index.html#faq
 
 ** If you aren't a member; send an email to mehrdad@tranquant.com with _Slack Invitation Request_ as the subject
 
