@@ -15,9 +15,9 @@ The deadline for submission is the end of day the Monday before the session.
 
 [Solution Submission Form](https://goo.gl/forms/nDHHlg5nUf4eJiCE3)
 
-#### late submissions
+#### Late Submissions
 
-| Submission time| Points Substracted |
+| Submission time| Points Subtracted |
 | ------------- |:-------------:|
 | 1 week > submission > 2 weeks | 1 |
 | 2 week > submission > 3 weeks | 2 |
@@ -33,7 +33,7 @@ Please view "Communication" tab on Please view "Competition" tab on http://hacko
 
 ## Schedule:
 
-The sessions will be delivered out by zoom.us [link]((https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)). Click on the session title to see the link for that session. All sessions will be recorded and published after the live session.
+The sessions will be delivered out by zoom.us ([link](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)). Click on the session title to see the link for that session. All sessions will be recorded and published after the live session.
 
 Every Tuesday from 7:00pm to 8:30pm, starting on July 4, 2017 until the day of the hackathon.
 
@@ -73,7 +73,7 @@ Every Tuesday from 7:00pm to 8:30pm, starting on July 4, 2017 until the day of t
 
 #### [Aug 1 - Virtual Session: Review](sessions/exercise_1.md)
 - Math review
-- Numpy and spark
+- Numpy and Spark
 - Lambda functions
 
 #### [Aug 8 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_1.md)
@@ -83,7 +83,7 @@ Every Tuesday from 7:00pm to 8:30pm, starting on July 4, 2017 until the day of t
 - Features interaction
 
 #### [Aug 15 - Virtual session - Feature Hashing](sessions/exercise_1.md)
-- One-hot-encoding
+- One-Hot Encoding (OHE)
 - OHE Dictionary
 - Prediction and log loss evaluation
 - Feature reduction
