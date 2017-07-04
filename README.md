@@ -1,6 +1,6 @@
 # workshops
 
-Workshops are based on the databricks EdX lectures on Apache Spark
+Workshops are based on the databricks EdX lectures on Apache Spark.
 
 Goal: Learn how to apply data science and data engineering techniques using parallel programming in Apache Spark. The workshops are heavily based on the databricks EdX Series.
 
