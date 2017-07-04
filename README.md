@@ -27,7 +27,7 @@ The deadline for submission is the end of day the Monday before the session.
 
 ** How to communicate?
 
-Please view "Communication" tab on Please view "Competition" tab on http://hackondata.com/2017/index.html#faq
+Please view "Communication" tab on http://hackondata.com/2017/index.html#faq
 
 ** If you aren't a member; send an email to mehrdad@tranquant.com with _Slack Invitation Request_ as the subject
 
