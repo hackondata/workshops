@@ -9,6 +9,10 @@ Participants are expected to review the material before the session and complete
 ## Points system:
 Please view "Competition" tab on [FAQ](http://hackondata.com/2017/index.html#faq)
 
+## How to communicate?
+
+Please view "Communication" tab on [FAQ](http://hackondata.com/2017/index.html#faq)
+
 ## Solution Submission
 
 The deadline for submission is the end of day the Monday before the session.
@@ -24,10 +28,6 @@ The deadline for submission is the end of day the Monday before the session.
 | 3 week > submission > 4 weeks | 3 |
 | 4 week > submission > 5 weeks | 4 |
 | 5 week > submission > 9 weeks | 5 |
-
-#### How to communicate?
-
-Please view "Communication" tab on [FAQ](http://hackondata.com/2017/index.html#faq)
 
 ## Schedule:
 
