@@ -7,7 +7,7 @@ Goal: Learn how to apply data science and data engineering techniques using para
 Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to points each week based on their participation, labs completion, and other tasks (more below). Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
 
 ## Points system:
-Please view "Competition" tab on (FAQ)[http://hackondata.com/2017/index.html#faq]
+Please view "Competition" tab on [FAQ](http://hackondata.com/2017/index.html#faq)
 
 ## Solution Submission
 
@@ -27,11 +27,11 @@ The deadline for submission is the end of day the Monday before the session.
 
 #### How to communicate?
 
-Please view "Communication" tab on (FAQ)[http://hackondata.com/2017/index.html#faq]
+Please view "Communication" tab on [FAQ](http://hackondata.com/2017/index.html#faq)
 
 ## Schedule:
 
-The sessions will be delivered out by zoom.us ([link](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA)). Click on the session title to see the link for that session. All sessions will be recorded and published after the live session.
+The sessions will be delivered out by zoom.us [Link to Session](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA). Click on the session title to see the link for that session. All sessions will be recorded and published after the live session.
 
 Every Tuesday from 6:30pm to 8:30pm, starting on July 4, 2017 until the day of the hackathon.
 
