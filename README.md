@@ -7,7 +7,7 @@ Goal: Learn how to apply data science and data engineering techniques using para
 Participants are expected to review the material before the session and complete the weekly challenges. Participants will be awarded up to points each week based on their participation, labs completion, and other tasks (more below). Questions during the session are encouraged, but priority will be given to questions send before the session and those that benefit the majority of the group.
 
 ## Points system:
-Please view "Competition" tab on http://hackondata.com/2017/index.html#faq
+Please view "Competition" tab on (FAQ)[http://hackondata.com/2017/index.html#faq]
 
 ## Solution Submission
 
@@ -25,11 +25,9 @@ The deadline for submission is the end of day the Monday before the session.
 | 4 week > submission > 5 weeks | 4 |
 | 5 week > submission > 9 weeks | 5 |
 
-** How to communicate?
+#### How to communicate?
 
-Please view "Communication" tab on http://hackondata.com/2017/index.html#faq
-
-** If you aren't a member; send an email to mehrdad@tranquant.com with _Slack Invitation Request_ as the subject
+Please view "Communication" tab on (FAQ)[http://hackondata.com/2017/index.html#faq]
 
 ## Schedule:
 
