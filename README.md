@@ -48,8 +48,10 @@ Every Tuesday from 6:30pm to 8:30pm, starting on July 4, 2017 until the day of t
 - Lambda functions
 - RDD actions, transformation, caching
 - Debugging and lazy evaluation
+
 [Recording is Available Here](https://www.youtube.com/watch?v=z9Vth8Okp7o)
-Please subscribe to HackOn(Data) channel to get notified when we upload a new video!
+
+*Please subscribe to HackOn(Data) channel to get notified when we upload a new video!
 
 #### [Jul 11 - Virtual session - RDDs](sessions/exercise_1.md)
 - Create a RDD and pair RDD
