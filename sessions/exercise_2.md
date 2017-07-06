@@ -3,7 +3,7 @@
 
 ## Material for session 2:
 
-[Lecture 1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4425269662238853/2202577924924539/latest.html)  - Same the previous week
+[Lecture 1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4425269662238853/2202577924924539/latest.html)  - Same as the previous week
 
 [Lecture 2](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4425269662237471/2202577924924539/latest.html)
 
