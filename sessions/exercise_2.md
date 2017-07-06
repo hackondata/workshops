@@ -13,7 +13,7 @@
 
 Please complete the Lab before the session on **Tuesday, July 11st**. 
 We will be answering questions and providing assistance then.
-In the meantime feel free to ask on the [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
+In the meantime feel free to ask on the [#hackondata-2017 channel of TAS Slack](https://torontoapachespark.slack.com/messages/hackondata-2017/).
 
 
 ## To submit your solutions go to:
