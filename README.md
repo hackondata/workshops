@@ -53,44 +53,44 @@ Every Tuesday from 6:30pm to 8:30pm, starting on July 4, 2017 until the day of t
 
 *Please subscribe to HackOn(Data) channel to get notified when we upload a new video!
 
-#### [Jul 11 - Virtual session - RDDs](sessions/exercise_1.md)
+#### [Jul 11 - Virtual session - RDDs](sessions/exercise_2.md)
 - Create a RDD and pair RDD
 - Counting words
 - Finding unique words and mean value
 - Reference to regular expressions https://regex101.com/#python
 - Apply word count to a file
 
-#### [Jul 18 - Virtual session  - Data Exploration](sessions/exercise_1.md)
+#### [Jul 18 - Virtual session  - Data Exploration](sessions/exercise_3.md)
 - Server log analysis statistics
 - Finding problematic endpoints, unique hosts
 - Visualizing data analysis results
 - Data exploration
 
-#### [Jul  25 - In-person - Text Analysis](sessions/exercise_1.md)
+#### [Jul  25 - In-person - Text Analysis](sessions/exercise_4.md)
 - Text similarity of Entity Resolution
 - Weighted bag-of-words
 - Cosine similarity
 - Scalable Entity Resolution
 - Analysis
 
-#### [Aug 1 - Virtual Session: Review](sessions/exercise_1.md)
+#### [Aug 1 - Virtual Session: Review](sessions/exercise_5.md)
 - Math review
 - Numpy and Spark
 - Lambda functions
 
-#### [Aug 8 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_1.md)
+#### [Aug 8 - Virtual session  - Read, parse, and visualize dataset](sessions/exercise_6.md)
 - Baseline model
 - Train linear regression
 - Hyperparameter tuning
 - Features interaction
 
-#### [Aug 15 - Virtual session - Feature Hashing](sessions/exercise_1.md)
+#### [Aug 15 - Virtual session - Feature Hashing](sessions/exercise_7.md)
 - One-Hot Encoding (OHE)
 - OHE Dictionary
 - Prediction and log loss evaluation
 - Feature reduction
 
-#### [Aug  22 - In-person - Principal Component Analysis](sessions/exercise_1.md)
+#### [Aug  22 - In-person - Principal Component Analysis](sessions/exercise_8.md)
 - PCA on a sample dataset
 - PCA calculation and evaluation
 - Data preprocessing for PCA
