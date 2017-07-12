@@ -13,8 +13,9 @@ Learn more about [DataFrames](http://spark.apache.org/docs/latest/sql-programmin
 ## Lab:
 [Lab](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4438435960036599/2202577924924539/latest.html)
 
-Please complete the Lab before the next session. 
+Please complete the Lab before the next session. Do submit the solution to this lab to get points this week.
 
+## Questions:
 Ask questions in the [google group](https://groups.google.com/forum/#!forum/hackondata)
 
 Or Slack [#hackondata-2017 channel of TAS Slack](https://torontoapachespark.slack.com/messages/hackondata-2017/).
