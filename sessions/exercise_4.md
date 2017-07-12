@@ -1,40 +1,28 @@
-# Exercise 4:
+# Week 4:
 ===========
 
-## Below is the material for session 4:
-- [Lectures - Week 4] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572323937/2202577924924539/latest.html)
+## Materials:
 
-- [Lab for Session 4](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1853118572323954/2202577924924539/latest.html)
+[Lecture]()  
 
-## Exercise #4 - Details:
-For this week the exercise is the lab above. Include the published URL for lab 4 when submitting.
 
-Please complete the Lab before the session on **Thursday, August 7th**. 
+## Lab:
+[Lab]()
+
+Please complete the Lab before the next session. 
 We will be answering questions and providing assistance then.
-In the meantime feel free to ask on the [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
-## To submit your solutions go to:
-[Solution Submission Form](https://goo.gl/forms/sJFjo6sAvS2MzoqE2)
+Ask questions in the [google group](https://groups.google.com/forum/#!forum/hackondata)
 
-## Join the Virtual Session 4
-[Link to Google Hangout On Air session - You will be able to comment and chat](https://plus.google.com/events/c0r1ssnug3njkpum7fv7hs8ru90)
+Or Slack [#hackondata-2017 channel of TAS Slack](https://torontoapachespark.slack.com/messages/hackondata-2017/).
 
-[YouTube Page - You won't be able to comment or ask questions live](http://www.youtube.com/watch?v=wcq9cdkm1dQ)
 
-## Solution for previous week exercise:
+## Submit solutions:
+[Solution Submission Form](https://goo.gl/forms/KmLf1dKgoa4YxhLC2)
 
-[Python : Parsing using external libraries](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5152969875391885/2831016518129705/2624471849802522/latest.html)
+## Last week solution:
+Use it as a reference point for your learnings and as a reference point for grading assignments.
 
-[Python:  Parsing using regex](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1779476228152266/4396722038858513/5673666086694627/latest.html)
-
-[Scala: Sample solution](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1045646855528506/1672108909930178/1387894455626278/latest.html)
-
-## Week 3 Lab solution example
-[Lab solution](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1898152693555917/2202577924924539/latest.html)
-
-## Interesting links from the previous virtual session:
-
-- [matplotlib gallery](http://matplotlib.org/gallery.html)
-- [user agent parsers](https://github.com/ua-parser/uap-core/blob/master/regexes.yaml)
-- [browser detection](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
-- [httpagentparser python](https://pypi.python.org/pypi/httpagentparser)
+## Join the Virtual Session
+- [zoom.us](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA) 
+- Use the TAS Slack for messages.
