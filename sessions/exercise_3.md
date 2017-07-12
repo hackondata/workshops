@@ -16,7 +16,7 @@ Learn more about [DataFrames](http://spark.apache.org/docs/latest/sql-programmin
 Please complete the Lab before the next session. Do submit the solution to this lab to get points this week.
 
 ## Questions:
-Ask questions in the [google group](https://groups.google.com/forum/#!forum/hackondata)
+Ask questions in the [google group](https://groups.google.com/forum/#!forum/hackondata) (Prefered)
 
 Or Slack [#hackondata-2017 channel of TAS Slack](https://torontoapachespark.slack.com/messages/hackondata-2017/).
 
