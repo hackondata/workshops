@@ -1,27 +1,28 @@
-# Exercise 6:
+# Week 6:
 ===========
 
-## Below is the material for session 6:
-- [Lectures - Week 6] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3155681567642802/2202577924924539/latest.html)
+## Materials:
 
-- [Lab for Session 6](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3155681567642814/2202577924924539/latest.html)
+[Lecture]()  
 
-## Exercise #6 - Details:
-- [Linear Regression](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/3155681567642906/2202577924924539/latest.html)
 
-Please complete the Lab and exercise before the session on **Thursday, Aug 18th**. 
+## Lab:
+[Lab]()
+
+Please complete the Lab before the next session. 
 We will be answering questions and providing assistance then.
-In the meantime feel free to ask on the [#workshops channel of TAS Slack](https://torontoapachespark.slack.com/messages/workshops/).
 
-## To submit your solutions go to:
-[Solution Submission Form](https://goo.gl/forms/sJFjo6sAvS2MzoqE2)
+Ask questions in the [google group](https://groups.google.com/forum/#!forum/hackondata)
 
-## Join the Virtual Session 6
-[Link to Google Hangout On Air session - You will be able to comment and chat](https://plus.google.com/events/ckjfifc0inibb8tsdrqf50j15f4)
+Or Slack [#hackondata-2017 channel of TAS Slack](https://torontoapachespark.slack.com/messages/hackondata-2017/).
 
-[YouTube Page - You won't be able to comment or ask questions live](http://www.youtube.com/watch?v=5zAFcEuKSyY)
 
-## Solution for previous week lab:
-[Solution Notebook - Lab 5](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2841773923122869/2202577924924539/latest.html)
-[Solution Notebook - Ex 5](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1534680456626080/2202577924924539/latest.html)
+## Submit solutions:
+[Solution Submission Form](https://goo.gl/forms/KmLf1dKgoa4YxhLC2)
 
+## Last week solution:
+Use it as a reference point for your learnings and as a reference point for grading assignments.
+
+## Join the Virtual Session
+- [zoom.us](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA) 
+- Use the TAS Slack for messages.
