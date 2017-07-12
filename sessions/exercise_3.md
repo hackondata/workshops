@@ -5,7 +5,7 @@
 
 [Lecture](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4425269662237163/2202577924924539/latest.html)
 
-[Introductions to Dataframes](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4425269662238955/2202577924924539/latest.html)
+[Introduction to Dataframes](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/4425269662238955/2202577924924539/latest.html)
 Import the "Introduction to Dataframes" notebook to databricks, run it and use it as a sandbox to learn about Dataframes (do not submit this notebook)
 
 Learn more about [DataFrames](http://spark.apache.org/docs/latest/sql-programming-guide.html) in the Spark Guide.
