@@ -5,8 +5,9 @@ Notes:
 
 ### Instructions:
 1. Review the solution notebook - linked in the instructions for the week ahead
-2. Compare the notebook with the solution and look for places you find something new to learn
-3. Use the following table for grading. 
+2. Compare the notebook with the solution 
+3. Look for opportunites to find something new to learn while reviewing other participants notebooks
+4. Use the following table as a general guideline to assign grades 
 
 | Grade  | Expectation |
 | ------------- | ------------- |
