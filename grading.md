@@ -23,3 +23,9 @@ Use your judgement according to the difficulty of the notebook to define:
 - small vs important
 - few vs several 
 [few vs several](https://www.dailywritingtips.com/few-vs-several/)
+
+
+## Form
+
+Submit the grades here:
+[Form](https://goo.gl/forms/VVxSI74nu6TNVqrW2)
