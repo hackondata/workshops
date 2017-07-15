@@ -1,6 +1,6 @@
 ## Grading Guidelines
 Notes:
-- You will be assigned three notebooks to grade, make sure you at least grade two. Three would be ideal, your colleages will thank you.
+- You will be assigned three notebooks to grade.
 - Be nice :)
 
 ### Instructions:
