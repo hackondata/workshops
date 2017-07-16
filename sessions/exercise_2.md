@@ -17,7 +17,7 @@ In the meantime feel free to ask on the [#hackondata-2017 channel of TAS Slack](
 
 
 ## To submit your solutions go to:
-[Solution Submission Form](https://goo.gl/forms/KmLf1dKgoa4YxhLC2)
+[Solution Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfiNP5zjP6LW00YQ1SDjBsJT8AVA4uaMLAsrPEr_-oBvz45lQ/viewform?entry.296985269&entry.242371632=2)
 
 ## Join the Virtual Session 2
 - [zoom.us](https://zoom.us/j/558311905?pwd=7KDJdpU_dNA) 
