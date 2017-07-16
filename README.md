@@ -13,12 +13,6 @@ Please view "Competition" tab on [FAQ](http://hackondata.com/2017/index.html#faq
 
 Please view "Communication" tab on [FAQ](http://hackondata.com/2017/index.html#faq)
 
-## Solution Submission
-
-The deadline for submission is the end of day the Monday before the session.
-
-[Solution Submission Form](https://goo.gl/forms/nDHHlg5nUf4eJiCE3)
-
 #### Late Submissions
 
 | Submission time| Points Subtracted |
