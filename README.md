@@ -60,7 +60,7 @@ Every Tuesday from 6:30pm to 8:30pm, starting on July 4, 2017 until the day of t
 - Visualizing data analysis results
 - Data exploration
 
-#### [Jul  25 - In-person - Text Analysis](sessions/exercise_1.md)
+#### [Jul  25 - Virtual Session - Text Analysis](sessions/exercise_1.md)
 - Text similarity of Entity Resolution
 - Weighted bag-of-words
 - Cosine similarity
