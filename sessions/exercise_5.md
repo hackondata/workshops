@@ -29,6 +29,8 @@ Use it as a reference point for your learnings and as a reference point for grad
 
 [Solution](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2333189179659608/2202577924924539/latest.html)
 
+## Resources from last session:
+
 [Wikipedia TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
 
