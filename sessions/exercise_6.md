@@ -7,7 +7,7 @@
 
 
 ## Lab:
-[Lab](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2823893187441173/2202577924924539/latest.htmla)
+[Lab](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/2823893187441173/2202577924924539/latest.html)
 
 Please complete the Lab before the next session. Do submit the solution to this lab to get points this week.
 
