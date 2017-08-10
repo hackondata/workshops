@@ -18,7 +18,7 @@ Or Slack [#hackondata-2017 channel of TAS Slack](https://torontoapachespark.slac
 
 
 ## Submit solutions:
-[Solution Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSfiNP5zjP6LW00YQ1SDjBsJT8AVA4uaMLAsrPEr_-oBvz45lQ/viewform?usp=pp_url&entry.296985269&entry.242371632=7)
+[Solution Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdZ8DMhSUdHCMVm6XOjrhTtf0iN354ohUtMaAgfkFtvS8BKsg/viewform?usp=pp_url&entry.1832457022&entry.296985269&entry.242371632=7)
 
 ## Last week solution:
 Use it as a reference point for your learnings and as a reference point for grading assignments.
