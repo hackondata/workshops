@@ -3,6 +3,10 @@
 
 Amazon Review Data
 
+## Slides from workshop 8
+
+[slides](https://docs.google.com/presentation/d/1SdI9Ib3NeI0MqGbBEO3DaGdXl0-whoMeho3AOUt-RTw/edit?usp=sharing)
+
 ## Data:
 
 Review Data: [Amazon Review Data](http://jmcauley.ucsd.edu/data/amazon/)
